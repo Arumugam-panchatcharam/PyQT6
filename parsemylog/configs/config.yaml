@@ -1,0 +1,75 @@
+---
+logfiles:
+  armconsole:
+    filename: ["ArmConsolelog.txt.0", "ArmConsolelog.txt.1"]
+    regex: "unformatted"
+
+  boottime:
+    filename: ["BootTime.log"]
+    # 2025-02-16T11:54:46 [BootUpTime] Lan_init_start=38
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\[(?P<module>\w+)\]\s+(?P<log>[\w\W]*)'
+
+  lmlog:
+    filename: ["LM.txt.0", "LM.txt.1"]
+    # 2025-02-28T23:56:50 telekom: LM.INFO [tid=37387] update_steering_policy_for_host: Mac = 1c:83:41:41:d2:58 HostName = godznas with vendor class id =
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+\[tid=\d+\]\s+(?P<log>[\w\W]*)'
+
+  pamlog:
+    filename: ["PAMlog.txt", "PAMlog.txt.0", "PAMlog.txt.1"]
+    # 2025-02-28T23:56:44 telekom: PAM.WARN [tid=1136] Failed to get parameter value of 'Enable'.
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+\[tid=\d+\]\s+(?P<log>[\w\W]*)'
+
+  psmlog:
+    filename: ["PSMlog.txt", "PSMlog.txt.0", "PSMlog.txt.1"]
+    # 2025-02-28T23:58:15 telekom: PSM.WARN [tid=624] ++++ getParameterValues Failed for dmsb.device.deviceinfo.X_RDKCENTRAL-COM_WHIX.LogInterval , returnStatus 4294967280 +++
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+\[tid=\d+\]\s+(?P<log>[\w\W]*)'
+
+  wifilog:
+    filename: ["WiFilog.txt", "WiFiLog.txt.0", "WiFiLog.txt.1"]
+    # 2025-03-01T00:05:58 telekom: WIFI.INFO [tid=9261] WIFI CosaDmlWiFi_GetGoodRssiThresholdValue : Calling PSM Get
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+\[tid=\d+\]\s+(?P<log>[\w\W]*)'
+
+  wifi_vendor_app_log:
+    filename: ["wifi_vendor_apps.log", "wifi_vendor_apps.log.0", "wifi_vendor_apps.log.1"]
+    # 539576.351290:  <ERR> [1905daemon][send_802_1_bridge_discovery_msg:142]error reason(Network is down)
+    regex: '(?P<timestamp>[\d.\d]*)\S+\s+(?P<log_level><[\w]*>)\s+(?P<app>\[[\w]*\])(?P<log>[\w\W]*)'
+  
+  wifi_vendor_hal_log:
+    filename: ["wifi_vendor_hal.log", "wifi_vendor_hal.log.0", "wifi_vendor_hal.log.1"]
+    # 250228-23:56:43.647570 <ERR> [wifi_get_ap_status_ioctl:14210]ioctl(SIOCGIFFLAGS) failed, No such device
+    regex: '(?P<timestamp>[\d\-\d:\d:\d.\d]*)\s+(?P<log_level>[<\w>]*)\s+(?P<log>[\w\W]*)'
+  
+  wifi_vendor_driver_log:
+    filename: ["wifi_vendor_driver.log", "wifi_vendor_driver.log.0", "wifi_vendor_driver.log.1"]
+    # Feb 28 18:11:25 telekom kernel:   49.367928] physical_device_init!
+    regex: '((?P<timestamp>[\w\s\d\s\d:\d:\d]*)\s+\w+\s+(?P<module>[\w]+):\s+(?<log_time>[\d.\d\]]+)\s+(?P<log>[\w\W]*)'
+
+  wifi_vendor_hostapd_log:
+    filename: ["wifi_vendor_hostapd.log", "wifi_vendor_hostapd.log.0", "wifi_vendor_hostapd.log.1"]
+    # 454.473313: nl80211_get_bss_mlo_info
+    regex: '(?P<timestamp>[\d\.\d:]*)\s+(?P<log>[\w\W]*)'
+
+  telemetry:
+    filename: ["telemetry2_0.txt", "telemetry2_0.txt.0"]
+    # 2025-03-01T00:10:41 telekom: T2.INFO [tid=2296058] No dmcli profiles configured
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+\[tid=\d+\]\s+(?P<log>[\w\W]*)'
+
+  sim:
+    filename: ["STATEINFOMANAGERLog.txt", "STATEINFOMANAGERLog.txt.0"]
+    # 2025-02-16T11:54:28 telekom: STATEINFOMANAGER.WARN [tid=622] Register empty object : com.
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+\[tid=\d+\]\s+(?P<log>[\w\W]*)'
+  
+  parodus:
+    filename: ["PARODUSlog.txt", "PARODUSlog.txt.0"]
+    # 2025-02-16T11:54:28 telekom: STATEINFOMANAGER.WARN [tid=622] Register empty object : com.
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+\[tid=\d+\]\s+(?P<log>[\w\W]*)'
+
+  syslog:
+    filename: ["syslog.txt", "syslog.txt.0", "syslog.txt.1"]
+    # 2025-02-23T07:30:52 telekom: UBI016 LM.INFO [tid=36729] EXTUBI-2161 Device Connection Lost <48:1b:40:30:0e:5e/192.168.2.68>
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+:\s+(?P<log>[\w\W]*)'
+
+  messages:
+    filename: ["messages", "messages.log.0"]
+    # Sat Jul 24 00:06:07 2021 daemon.err interceptd[6183]: RTNETLINK answers: No such file or directory
+    regex: '(?P<timestamp>[\d\-\d\-\w:\d:\d]*)\s+\w+\s+(?P<module>[\w]+).(?P<log_level>[\w]+)\s+(?P<log>[\w\W]*)'
