@@ -5,6 +5,7 @@ import sys
 
 from PyQt6.QtWidgets import QApplication
 from gui.app import MainWindow
+from core.log_format_parser import LogFormatParser
 
 import core.global_var as globalvar
 

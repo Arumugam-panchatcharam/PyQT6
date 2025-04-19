@@ -1,0 +1,41 @@
+2025-04-19 16:46:29,208 - DEBUG - toolbar.py:87 - Selected folder: /Users/parumugam/Downloads/Vandana_wifi_disconnection
+2025-04-19 16:46:49,776 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-19 16:46:49,776 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:46:49,776 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:46:53,417 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-19 16:46:53,418 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:46:53,418 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:46:53,421 - DEBUG - tableview.py:129 - CSV file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_driver.log.csv
+2025-04-19 16:46:53,421 - DEBUG - tableview.py:118 - Importing CSV file: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_driver.log.csv
+2025-04-19 16:46:56,288 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-19 16:46:56,289 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_hal.log
+2025-04-19 16:46:56,289 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_hal.log
+2025-04-19 16:46:56,291 - DEBUG - tableview.py:129 - CSV file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_hal.log.csv
+2025-04-19 16:46:56,292 - DEBUG - log_format_parser.py:39 - folder /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC file 2025-04-16-07-25-51_wifi_vendor_hal.log
+2025-04-19 16:46:56,292 - DEBUG - log_format_parser.py:125 -  Parse Logs
+2025-04-19 16:46:56,302 - DEBUG - log_format_parser.py:54 - Log Name 2025-04-16-07-25-51_wifi_vendor_hal.log
+2025-04-19 16:46:56,302 - DEBUG - log_format_parser.py:55 - Log REGEX (?P<timestamp>[\d\-\d:\d:\d.\d]*)\s+(?P<log_level>[<\w>]*)\s+(?P<log>[\w\W]*)
+2025-04-19 16:46:56,302 - DEBUG - log_format_parser.py:58 - Log file path /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_hal.log
+2025-04-19 16:46:56,302 - DEBUG - log_format_parser.py:65 - Log file is empty
+2025-04-19 16:46:58,746 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-19 16:46:58,747 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:46:58,747 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:46:58,749 - DEBUG - tableview.py:129 - CSV file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_driver.log.csv
+2025-04-19 16:46:58,749 - DEBUG - tableview.py:118 - Importing CSV file: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_driver.log.csv
+2025-04-19 16:47:56,908 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-19 16:47:56,908 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_apps.log
+2025-04-19 16:47:56,909 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_apps.log
+2025-04-19 16:47:56,910 - DEBUG - tableview.py:129 - CSV file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_apps.log.csv
+2025-04-19 16:47:56,911 - DEBUG - tableview.py:118 - Importing CSV file: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_apps.log.csv
+2025-04-19 16:47:58,192 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-19 16:47:58,192 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:47:58,192 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:47:58,194 - DEBUG - tableview.py:129 - CSV file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_driver.log.csv
+2025-04-19 16:47:58,195 - DEBUG - log_format_parser.py:39 - folder /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC file 2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:47:58,195 - DEBUG - log_format_parser.py:125 -  Parse Logs
+2025-04-19 16:47:58,203 - DEBUG - log_format_parser.py:54 - Log Name 2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:47:58,204 - DEBUG - log_format_parser.py:55 - Log REGEX (?P<timestamp>[\w\s\d\s\d:\d:\d]*)\s+\w+\s+(?P<module>[\w]+)\[(?P<log_time>[\d.\d\]]+)\]:\s+(?P<log>[\w\W]*)
+2025-04-19 16:47:58,204 - DEBUG - log_format_parser.py:58 - Log file path /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-19 16:47:58,204 - DEBUG - log_format_parser.py:70 - CSV file /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_driver.log.csv
+2025-04-19 16:47:58,211 - DEBUG - log_format_parser.py:120 - 2025-04-16-07-25-51_wifi_vendor_driver.log parsed successfully
+2025-04-19 16:47:58,212 - DEBUG - tableview.py:118 - Importing CSV file: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/.parsemylog/2025-04-16-07-25-51_wifi_vendor_driver.log.csv

@@ -1,0 +1,226 @@
+2025-04-16 17:28:57,631 - DEBUG - toolbar.py:87 - Selected folder: /Users/parumugam/Downloads/Vandana_wifi_disconnection
+2025-04-16 17:29:21,166 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:29:21,168 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_WiFilog.txt
+2025-04-16 17:29:21,169 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_WiFilog.txt
+2025-04-16 17:29:36,310 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:29:36,311 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-39-01_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-38-59_WiFilog.txt
+2025-04-16 17:29:36,311 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-38-59_WiFilog.txt
+2025-04-16 17:30:10,109 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:30:10,110 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-29-55_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-29-53_WiFilog.txt
+2025-04-16 17:30:10,110 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-29-53_WiFilog.txt
+2025-04-16 17:30:22,046 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:30:22,046 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-05-34_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-05-32_WiFilog.txt
+2025-04-16 17:30:22,046 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-05-32_WiFilog.txt
+2025-04-16 17:30:36,814 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:30:36,814 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-05-34_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-05-32_wifi_vendor_driver.log
+2025-04-16 17:30:36,814 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-05-32_wifi_vendor_driver.log
+2025-04-16 17:30:58,710 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:30:58,710 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_WiFilog.txt
+2025-04-16 17:30:58,711 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_WiFilog.txt
+2025-04-16 17:31:10,078 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:31:10,078 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_hal.log
+2025-04-16 17:31:10,078 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_hal.log
+2025-04-16 17:31:11,429 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:31:11,429 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-16 17:31:11,429 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_driver.log
+2025-04-16 17:32:17,950 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:32:17,950 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-25-53_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-25-51_wifi_vendor_apps.log
+2025-04-16 17:32:17,951 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-25-51_wifi_vendor_apps.log
+2025-04-16 17:32:18,003 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 17:32:18,003 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 17:33:43,718 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:33:43,718 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-39-01_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-38-59_Consolelog.txt.0
+2025-04-16 17:33:43,719 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-38-59_Consolelog.txt.0
+2025-04-16 17:33:58,646 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:33:58,646 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-39-01_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-38-59_STATEINFOMANAGERLog.txt
+2025-04-16 17:33:58,647 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-38-59_STATEINFOMANAGERLog.txt
+2025-04-16 17:34:03,070 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:34:03,070 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-39-01_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-38-59_syslog.txt
+2025-04-16 17:34:03,070 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-38-59_syslog.txt
+2025-04-16 17:34:13,414 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:34:13,414 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-39-01_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-38-59_wifi_snapshot.txt
+2025-04-16 17:34:13,414 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-38-59_wifi_snapshot.txt
+2025-04-16 17:34:25,870 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:34:25,870 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-39-01_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-38-59_wifi_snapshot.txt
+2025-04-16 17:34:25,870 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-38-59_wifi_snapshot.txt
+2025-04-16 17:34:36,430 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 17:34:36,430 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-09-29-55_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-09-29-53_wifi_snapshot.txt
+2025-04-16 17:34:36,430 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-09-29-53_wifi_snapshot.txt
+2025-04-16 17:40:47,571 - DEBUG - explorer.py:32 - Selected file type: Gzip Compressed Archive
+2025-04-16 17:40:47,572 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC.tgz
+2025-04-16 17:40:47,572 - DEBUG - explorer.py:35 - selected filename: telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC.tgz
+2025-04-16 17:40:49,107 - DEBUG - explorer.py:32 - Selected file type: Folder
+2025-04-16 17:40:49,107 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC
+2025-04-16 17:40:53,146 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:40:53,147 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-58-38_airties.log
+2025-04-16 17:40:53,147 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-58-38_airties.log
+2025-04-16 17:41:01,083 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:41:01,083 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-58-38_wifi_vendor_driver.log
+2025-04-16 17:41:01,083 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-58-38_wifi_vendor_driver.log
+2025-04-16 17:41:40,586 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:41:40,587 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_wifi_vendor_driver.log
+2025-04-16 17:41:40,587 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_wifi_vendor_driver.log
+2025-04-16 17:56:30,461 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 17:56:30,461 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_wifi_vendor_apps.log
+2025-04-16 17:56:30,461 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_wifi_vendor_apps.log
+2025-04-16 17:56:30,524 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 17:56:30,524 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:07:17,256 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:07:17,256 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_zebra.log
+2025-04-16 18:07:17,256 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_zebra.log
+2025-04-16 18:14:56,824 - DEBUG - explorer.py:32 - Selected file type: Empty document
+2025-04-16 18:14:56,825 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_ArmConsolelog.txt.0
+2025-04-16 18:14:56,825 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_ArmConsolelog.txt.0
+2025-04-16 18:15:03,537 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:15:03,537 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_airties.log
+2025-04-16 18:15:03,537 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_airties.log
+2025-04-16 18:15:16,272 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:15:16,273 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:15:16,273 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:15:43,528 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:15:43,529 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_wifi_vendor_hal.log
+2025-04-16 18:15:43,529 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_wifi_vendor_hal.log
+2025-04-16 18:16:20,856 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:16:20,856 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_wifi_vendor_driver.log
+2025-04-16 18:16:20,857 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_wifi_vendor_driver.log
+2025-04-16 18:44:07,436 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:44:07,437 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_wifi_vendor_apps.log
+2025-04-16 18:44:07,437 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_wifi_vendor_apps.log
+2025-04-16 18:44:07,495 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:44:07,496 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:44:07,506 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:44:07,506 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:44:38,148 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:44:38,148 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_wifi_vendor_driver.log
+2025-04-16 18:44:38,148 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_wifi_vendor_driver.log
+2025-04-16 18:44:48,931 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:44:48,931 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:44:48,931 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:47:27,596 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:47:27,596 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:47:27,596 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:47:37,516 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:47:37,516 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:47:37,516 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_WiFilog.txt
+2025-04-16 18:47:41,621 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:47:41,621 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_wifi_vendor_apps.log
+2025-04-16 18:47:41,621 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_wifi_vendor_apps.log
+2025-04-16 18:47:41,689 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:47:41,689 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:47:41,700 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:47:41,701 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:48:01,093 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:48:01,094 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-08-51_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-08-49_Consolelog.txt.0
+2025-04-16 18:48:01,094 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-08-49_Consolelog.txt.0
+2025-04-16 18:48:01,109 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:48:01,109 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:48:01,109 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 18:48:53,885 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:48:53,886 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_Consolelog.txt.0
+2025-04-16 18:48:53,886 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_Consolelog.txt.0
+2025-04-16 18:49:36,459 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:49:36,459 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_Consolelog.txt.0
+2025-04-16 18:49:36,459 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_Consolelog.txt.0
+2025-04-16 18:49:37,373 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:49:37,373 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_airties.log
+2025-04-16 18:49:37,373 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_airties.log
+2025-04-16 18:50:03,414 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:50:03,415 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-08-04-46_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-08-04-44_Consolelog.txt.0
+2025-04-16 18:50:03,415 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-08-04-44_Consolelog.txt.0
+2025-04-16 18:50:23,903 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 18:50:23,904 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-58-38_Consolelog.txt.0
+2025-04-16 18:50:23,904 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-58-38_Consolelog.txt.0
+2025-04-16 18:51:40,911 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 18:51:40,912 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-58-38_wifi_vendor_apps.log
+2025-04-16 18:51:40,912 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-58-38_wifi_vendor_apps.log
+2025-04-16 20:19:50,026 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:19:50,028 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-58-38_wifi_vendor_apps.log
+2025-04-16 20:19:50,028 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-58-38_wifi_vendor_apps.log
+2025-04-16 20:20:12,996 - DEBUG - explorer.py:32 - Selected file type: text/plain
+2025-04-16 20:20:12,997 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-58-40_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-58-38_WiFilog.txt
+2025-04-16 20:20:12,997 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-58-38_WiFilog.txt
+2025-04-16 20:20:28,204 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:20:28,206 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-53-34_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-53-33_airties.log
+2025-04-16 20:20:28,206 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-53-33_airties.log
+2025-04-16 20:20:33,260 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:20:33,260 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-53-34_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-53-33_wifi_vendor_apps.log
+2025-04-16 20:20:33,260 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-53-33_wifi_vendor_apps.log
+2025-04-16 20:20:48,788 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:20:48,788 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-49-28_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-49-27_wifi_vendor_apps.log
+2025-04-16 20:20:48,789 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-49-27_wifi_vendor_apps.log
+2025-04-16 20:20:59,692 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:20:59,693 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-45-23_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-45-21_wifi_vendor_apps.log
+2025-04-16 20:20:59,693 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-45-21_wifi_vendor_apps.log
+2025-04-16 20:21:20,900 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:21:20,901 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-40-14_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-40-12_wifi_vendor_apps.log
+2025-04-16 20:21:20,901 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-40-12_wifi_vendor_apps.log
+2025-04-16 20:22:32,277 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:22:32,278 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-40-14_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-40-12_wifi_vendor_apps.log
+2025-04-16 20:22:32,278 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-40-12_wifi_vendor_apps.log
+2025-04-16 20:23:26,206 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:23:26,206 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-35-07_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-35-06_wifi_vendor_apps.log
+2025-04-16 20:23:26,206 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-35-06_wifi_vendor_apps.log
+2025-04-16 20:23:26,231 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 20:23:26,231 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 20:23:26,272 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 20:23:26,272 - ERROR - highlighter.py:102 - Error in highlightBlock: arguments did not match any overloaded call:
+  setFormat(self, start: int, count: int, format: QTextCharFormat): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, color: Union[QColor, Qt.GlobalColor, int]): argument 3 has unexpected type 'str'
+  setFormat(self, start: int, count: int, font: QFont): argument 3 has unexpected type 'str'
+2025-04-16 20:24:34,662 - DEBUG - explorer.py:32 - Selected file type: application log
+2025-04-16 20:24:34,663 - DEBUG - explorer.py:33 - Selected file path: /Users/parumugam/Downloads/Vandana_wifi_disconnection/telekom-de_54B7BD50720F_2025-04-16-07-30-01_CPELogs_ARCA_DT-HGW01A-ARC/2025-04-16-07-30-00_wifi_vendor_apps.log
+2025-04-16 20:24:34,663 - DEBUG - explorer.py:35 - selected filename: 2025-04-16-07-30-00_wifi_vendor_apps.log

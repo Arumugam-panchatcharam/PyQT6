@@ -25,36 +25,43 @@ class MainWindow(QMainWindow):
 
         self.setCentralWidget(label)
 
-        toolbar = QToolBar("My main toolbar", self)
-        toolbar.setIconSize(QSize(16, 16))
+        self.toolbar = QToolBar("My main toolbar", self)
+        self.toolbar.setIconSize(QSize(16, 16))
         
-        toolbar1 = QToolBar("My main toolbar", self)
-        toolbar1.setIconSize(QSize(16, 16))
+        self.toolbar1 = QToolBar("My main toolbar", self)
+        self.toolbar1.setIconSize(QSize(16, 16))
 
         self.button_action = QAction(QIcon("bug.png"), "&Your button", self)
         self.button_action.setStatusTip("This is your button")
         self.button_action.triggered.connect(self.onMyToolBarButtonClick)
         self.button_action.setCheckable(True)
-        toolbar.addAction(self.button_action)
+        self.toolbar.addAction(self.button_action)
 
-        toolbar.addWidget(QLabel("Hello"))
-        toolbar.addWidget(QCheckBox())
+        self.toolbar.addWidget(QLabel("Hello"))
+        self.toolbar.addWidget(QCheckBox())
 
         combobox = QComboBox(self)
         combobox.addItem("Option 1")
         combobox.addItem("Option 2")
         combobox.addItem("Option 3")
         combobox.move(50, 50)
-        toolbar1.addWidget(combobox)
+        self.toolbar1.addWidget(combobox)
         
-        toolbar1.setLayoutDirection(Qt.LayoutDirection.RightToLeft)
-        self.add_menu_theme(self.main, self.main.menuStyles)
+        self.toolbar1.setLayoutDirection(Qt.LayoutDirection.RightToLeft)
+        #self.add_menu_theme(self.main, self.main.menuStyles)
 
-        self.addToolBar(toolbar)
-        self.addToolBar(toolbar1)
+        self.addToolBar(self.toolbar)
+        self.addToolBar(self.toolbar1)
+        self.toolbar1.hide()
+        
 
     def onMyToolBarButtonClick(self, s):
-        print("click", s)
+        if (s == True):
+            self.toolbar1.show()
+            print("show")
+        else:
+            self.toolbar1.hide()
+            print("Hide")
 
 
 app = QApplication(sys.argv)
